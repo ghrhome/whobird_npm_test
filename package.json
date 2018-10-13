@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "folder",
-    "url": "C:/Users/whobird/WebstormProjects/npmtest"
+    "type": "git",
+    "url": "git+https//github.com/ghrhome/whobird_npm_test.git"
   },
   "author": "whobird",
   "license": "ISC"
