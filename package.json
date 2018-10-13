@@ -1,0 +1,15 @@
+{
+  "name": "whobird-npm-test",
+  "version": "0.0.1",
+  "description": "my npm publish test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "folder",
+    "url": "C:/Users/whobird/WebstormProjects/npmtest"
+  },
+  "author": "whobird",
+  "license": "ISC"
+}
